@@ -1,0 +1,35 @@
+{
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "Come fare il test covid in Toscana",
+        "description": "Le istruzioni passo passo per fare il test covid in Toscana.",
+        "step": [
+                {
+                        "@type": "HowToStep",
+                        "name": "Contatta il tuo medico.",
+                        "text": "Parla con il tuo medico o pediatra e chiedi di fare il test."
+                },
+                {
+                        "@type": "HowToStep",
+                        "name": "Prenota il test",
+                        "text": "Quando ricevi la prescrizione registrati per fare il test.",
+                        "itemListElement": [
+                                {
+                                        "@type": "HowToDirection",
+                                        "text": "Per il test molecolare o antigenico di laboratorio registrati sul portale ",
+                                        "url": "https://www.regione.toscana.it/-/prenota-il-tampone-online-e-consulta-il-risultato"
+                                },
+                                {
+                                        "@type": "HowToDirection",
+                                        "text": "Puoi fare il test antigenico rapido o sierologico presso strutture sanitarie private o le farmacie convenzionate.",
+                                        "url": "https://www.regione.toscana.it/-/test-covid-19-quali-sono-come-e-dove-farli"
+                                },
+                                {
+                                        "@type": "HowToDirection",
+                                        "text": "Per il test sierologico prendi appuntamento al CUP ",
+                                        "url": "https://prenota.sanita.toscana.it/"
+                                }
+                        ]
+                }
+        ]
+}

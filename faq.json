@@ -1,0 +1,63 @@
+{
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "url": "https://www.regione.toscana.it/-/test-covid-19-quali-sono-come-e-dove-farli",
+        "mainEntity": [
+                {
+                        "@type": "Question",
+                        "name": "Quali sono i test covid?",
+                        "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "I test per il virus Covid-19 sono 3: molecolare, antigenico e sierologico."
+                        }
+                },
+                {
+                        "@type": "Question",
+                        "name": "Cosa è il test molecolare?",
+                        "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "È un tampone prelevato dal naso, bocca e faringe per la ricerca di RNA virale. È utilizzato per rilevare l’infezione ed ha la sensibilità e specificità più alta tra i test diagnostici."
+                        }
+                },
+                {
+                        "@type": "Question",
+                        "name": "Quanto devo aspettare per il test molecolare?",
+                        "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Il risultato di solito è disponibile entro 24-48 ore dal tampone."
+                        }
+                },
+                {
+                        "@type": "Question",
+                        "name": "Cosa è il test antigenico?",
+                        "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "È un tampone dal naso, bocca e faringe per la ricerca delle proteine virali. È utilizzato per rilevare l'infezione e per lo screening della popolazione."
+                        }
+                },
+                {
+                        "@type": "Question",
+                        "name": "Quanto devo aspettare per il test antigenico?",
+                        "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Dipende dal test, per il piú rapido il risultato è disponibile in 15-20 minuti."
+                        }
+                },
+                {
+                        "@type": "Question",
+                        "name": "Cosa è il test sierologico?",
+                        "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "È un prelievo di gocce di sangue per cercare gli anticorpi. È usato per lo screening della popolazione."
+                        }
+                },
+                {
+                        "@type": "Question",
+                        "name": "Quanto devo aspettare per il test sierologico?",
+                        "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Dipende dal test, per il piú rapido il risultato è disponibile in 15-20 minuti."
+                        }
+                }
+        ]
+}
